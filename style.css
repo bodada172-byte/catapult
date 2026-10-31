@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Fredoka";
+  src: url("fonts/Fredoka-SemiBold.ttf") format("truetype");
+  font-weight: 400 700;
+  font-display: swap;
+}
 :root {
   --navy: #182046;
   --orange: #ff8a1e;
@@ -46,3 +52,6 @@ ul.features li { margin: 6px 0; }
 .meta { color: var(--muted); font-size: 15px; }
 footer { border-top: 1px solid #eadfca; padding: 20px 0 40px; color: var(--muted); font-size: 15px; text-align: center; }
 footer a { margin: 0 8px; }
+.doc-page { padding-top: 32px; }
+.notfound { text-align: center; padding: 80px 16px; }
+.notfound img { width: 96px; height: 96px; border-radius: 22px; }
