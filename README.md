@@ -1,6 +1,6 @@
-# Catapult: Smash the City — website
+# Boomtropolis — website
 
-The public website of the mobile game **Catapult: Smash the City** by Catapult Studio, served by GitHub Pages:
+The public website of the mobile game **Boomtropolis** by Catapult Studio, served by GitHub Pages:
 
 - Home: https://bodada172-byte.github.io/catapult/
 - Privacy Policy: https://bodada172-byte.github.io/catapult/privacy.html
